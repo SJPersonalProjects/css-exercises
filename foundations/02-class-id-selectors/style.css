@@ -1,0 +1,18 @@
+.paragraph-style {
+    background-color: pink;
+    font-family: serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#second-div {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-div {
+    background-color: lightgreen;
+    font-weight: bold;
+}
